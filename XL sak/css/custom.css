@@ -99,9 +99,17 @@ p {
     visibility: hidden;
 }
 
-img {
+.imgVertikal {
     height: 120vh;
     width: 50vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.imgHorisontal {
+    height: 50vh;
+    width: 100vh;
     margin-left: auto;
     margin-right: auto;
     display: block;
