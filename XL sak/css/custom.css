@@ -98,3 +98,11 @@ p {
 #counter {
     visibility: hidden;
 }
+
+img {
+    height: 120vh;
+    width: 50vh;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
